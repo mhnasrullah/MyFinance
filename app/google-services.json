@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "984946489885",
+    "project_id": "myfinance-b2ae8",
+    "storage_bucket": "myfinance-b2ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984946489885:android:29d36608dfb66233e1e4f4",
+        "android_client_info": {
+          "package_name": "com.company.MyFinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984946489885-1vsn8a7bl8vmr411u0pbd0c04kgrpahv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0OUmTuYhFBDWeWi18JGCFWIIvm0PhVf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984946489885-1vsn8a7bl8vmr411u0pbd0c04kgrpahv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984946489885:android:61037e89db36a984e1e4f4",
+        "android_client_info": {
+          "package_name": "com.example.pampa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984946489885-1vsn8a7bl8vmr411u0pbd0c04kgrpahv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0OUmTuYhFBDWeWi18JGCFWIIvm0PhVf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984946489885-1vsn8a7bl8vmr411u0pbd0c04kgrpahv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

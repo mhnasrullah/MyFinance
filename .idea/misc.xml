@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/bg_item_r.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/bg_style.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/bg_style2.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btn_outpurple.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btn_outred.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btn_style.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btn_style2.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btn_style3.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btnpink.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/btnpurple.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/edit_style.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/footer.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_acc.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_formpink.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_formpurple.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_item.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_item_p.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_item_purple.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_line.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_logout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/bg_nav.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/btnpurple.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/ic_recap.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/ic_vacc.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/ic_vacc_a.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/drawable/rounded.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/layout/activity_landing.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/layout/detail_item.xml" value="0.4" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/layout/item.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/layout/title_item.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/PAMPA/app/src/main/res/xml/network_security.xml" value="0.21052631578947367" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
